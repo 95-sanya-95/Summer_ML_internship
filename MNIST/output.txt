@@ -1,0 +1,101 @@
+Training Accuracy: 0.21875
+Validation Accuracy: 0.1158333346247673
+Epoch 1/5, Batch 0/843, Train Loss: 2.2342019081115723, Val Loss: 2.304241895675659
+-----------------
+Training Accuracy: 0.859375
+Validation Accuracy: 0.8840000033378601
+Epoch 1/5, Batch 200/843, Train Loss: 0.371489018201828, Val Loss: 0.36626577377319336
+-----------------
+Training Accuracy: 0.9375
+Validation Accuracy: 0.9351666569709778
+Epoch 1/5, Batch 400/843, Train Loss: 0.2001628875732422, Val Loss: 0.21187837421894073
+-----------------
+Training Accuracy: 0.953125
+Validation Accuracy: 0.9458333253860474
+Epoch 1/5, Batch 600/843, Train Loss: 0.2548919916152954, Val Loss: 0.17377640306949615
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.953166663646698
+Epoch 1/5, Batch 800/843, Train Loss: 0.10597939044237137, Val Loss: 0.16247981786727905
+-----------------
+Training Accuracy: 0.9375
+Validation Accuracy: 0.9453333020210266
+Epoch 2/5, Batch 0/843, Train Loss: 0.12265627086162567, Val Loss: 0.18242280185222626
+-----------------
+Training Accuracy: 0.96875
+Validation Accuracy: 0.9505000114440918
+Epoch 2/5, Batch 200/843, Train Loss: 0.12502050399780273, Val Loss: 0.15532554686069489
+-----------------
+Training Accuracy: 0.953125
+Validation Accuracy: 0.956166684627533
+Epoch 2/5, Batch 400/843, Train Loss: 0.19739873707294464, Val Loss: 0.13472607731819153
+-----------------
+Training Accuracy: 0.96875
+Validation Accuracy: 0.9643332958221436
+Epoch 2/5, Batch 600/843, Train Loss: 0.08961278945207596, Val Loss: 0.1138809323310852
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.965666651725769
+Epoch 2/5, Batch 800/843, Train Loss: 0.03297540172934532, Val Loss: 0.1187455803155899
+-----------------
+Training Accuracy: 0.96875
+Validation Accuracy: 0.9608333110809326
+Epoch 3/5, Batch 0/843, Train Loss: 0.04600971192121506, Val Loss: 0.13020657002925873
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9621666669845581
+Epoch 3/5, Batch 200/843, Train Loss: 0.06610848009586334, Val Loss: 0.11610167473554611
+-----------------
+Training Accuracy: 0.9375
+Validation Accuracy: 0.9671666622161865
+Epoch 3/5, Batch 400/843, Train Loss: 0.13168618083000183, Val Loss: 0.1079341322183609
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.968833327293396
+Epoch 3/5, Batch 600/843, Train Loss: 0.051617734134197235, Val Loss: 0.10466114431619644
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9713333249092102
+Epoch 3/5, Batch 800/843, Train Loss: 0.03256814554333687, Val Loss: 0.0950276106595993
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9629999995231628
+Epoch 4/5, Batch 0/843, Train Loss: 0.03360326588153839, Val Loss: 0.1233028769493103
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9681666493415833
+Epoch 4/5, Batch 200/843, Train Loss: 0.07877250760793686, Val Loss: 0.10174711793661118
+-----------------
+Training Accuracy: 0.96875
+Validation Accuracy: 0.9699999690055847
+Epoch 4/5, Batch 400/843, Train Loss: 0.09167050570249557, Val Loss: 0.10523726046085358
+-----------------
+Training Accuracy: 1.0
+Validation Accuracy: 0.968833327293396
+Epoch 4/5, Batch 600/843, Train Loss: 0.01605674996972084, Val Loss: 0.10361171513795853
+-----------------
+Training Accuracy: 1.0
+Validation Accuracy: 0.9711666703224182
+Epoch 4/5, Batch 800/843, Train Loss: 0.0149216428399086, Val Loss: 0.094008669257164
+-----------------
+Training Accuracy: 1.0
+Validation Accuracy: 0.968500018119812
+Epoch 5/5, Batch 0/843, Train Loss: 0.013253779150545597, Val Loss: 0.10683304816484451
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9748333096504211
+Epoch 5/5, Batch 200/843, Train Loss: 0.03833336383104324, Val Loss: 0.08894151449203491
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.9723333120346069
+Epoch 5/5, Batch 400/843, Train Loss: 0.03050636127591133, Val Loss: 0.09494554251432419
+-----------------
+Training Accuracy: 1.0
+Validation Accuracy: 0.9681666493415833
+Epoch 5/5, Batch 600/843, Train Loss: 0.006809889804571867, Val Loss: 0.10998810827732086
+-----------------
+Training Accuracy: 0.984375
+Validation Accuracy: 0.965499997138977
+Epoch 5/5, Batch 800/843, Train Loss: 0.019266529008746147, Val Loss: 0.11257974058389664
+-----------------
+Test Loss: 0.11155584454536438
